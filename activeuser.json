@@ -4,7 +4,7 @@
         "username": "jose",
         "password": "carloszin",
         "expirydate": "27-05-2026",
-        "Allowoffline": true
+        "Allowoffline": false
     },
     {
         "device_id": "4587d844dedec2f1",
